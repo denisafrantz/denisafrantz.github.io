@@ -1,0 +1,121 @@
+a{
+    color: aliceblue;
+}
+
+a:active{
+    color: aliceblue;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+
+
+body{
+    background-image: linear-gradient(black, PINK, #f5d6d4);
+    position: inherit;
+}
+
+.container {
+    margin: 0%;
+    padding: 0%;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.cv{
+    background-image: url(images/eberhard-grossgasteiger-jCL98LGaeoE-unsplash.jpg);
+    background-position: center;
+    background-attachment: fixed;}
+
+.denisaPic{
+    padding: 2%;
+}
+
+footer {
+    position: fixed;
+    bottom: 1%;
+    right: 1%;
+    font-size: .5em;
+}
+
+h2{
+    text-align: left;
+    margin: 1%;
+    padding: 0%;
+    font-size: 3em;
+}
+
+h3{
+    text-align: left;
+    margin-left: 5%;
+    font-size: 2em;
+}
+
+img{
+    position: fixed;
+    left: 0%;
+    padding: 10px;
+    padding-left: 10px;
+}
+
+.italicized{
+    color: palevioletred;
+}
+
+.left_links{
+    color: aliceblue;
+    padding-top: 180px;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.main1 {
+    height: 100%;
+    background-image: url(images/eberhard-grossgasteiger-jCL98LGaeoE-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.mark_pro {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    position: fixed;
+    margin-left: 160px;
+    margin-top: 75px;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+#mls{
+margin-top: 160px;
+}
+
+.name_box {
+    font-weight: bold;
+    padding: 0%;
+    font-size: 2rem;
+    position: fixed;
+    text-align: left;
+    margin-left: 160px;
+    background-color: black;
+}
+
+.nav1 {
+    color: aqua;
+}
+
+p{
+    margin: 0%;
+    padding: 0%;
+}
+
+.row {
+    margin: 0%;
+}
+
+.scroll_top{
+    padding: 5%;
+}
